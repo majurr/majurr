@@ -22,14 +22,14 @@
 <br>
 <div>
   <p align="center">
-    <a href="https://www.10envolv.com/">
+    <a href="https://www.10envolv.com/#contact">
       <img src="https://skillicons.dev/icons?i=py,django,fastapi,laravel,bootstrap,html,mysql,mongodb,rabbitmq" />
     </a>
   </p>
   
   <br>
   <p align="center">
-    <a href="https://www.10envolv.com/">
+    <a href="https://www.10envolv.com/#contact">
       <img src="https://skillicons.dev/icons?i=linux,raspberrypi,git,docker,rabbitmq,postman" />
     </a>
   </p>
